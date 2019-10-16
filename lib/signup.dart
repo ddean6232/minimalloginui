@@ -42,7 +42,7 @@ class _SignupPageState extends State<SignupPage> {
                 children: <Widget>[
                   TextField(
                     decoration: InputDecoration(
-                        labelText: 'Email',
+                        labelText: 'My Email',
                         labelStyle: TextStyle(
                             fontFamily: 'Montserrat',
                             fontWeight: FontWeight.bold,
